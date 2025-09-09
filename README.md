@@ -52,7 +52,6 @@ AI-Resume-Builder simplifies the resume creation process, making it effortless. 
 
 ## 🔗Link
 
-- [https://harshbisht27-ai-resume-builder.netlify.app/](https://ai-resume-builder-frontend-l6x2.onrender.com)
-
+- https://ai-resume-builder-frontend-l6x2.onrender.com
 
 
